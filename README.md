@@ -1,2 +1,2 @@
 # projeto-cordel-01-man
-Poesia Cordel Moreno
+HTML CSS JAVA SCRIPT - Poesia Cordel Moreno
